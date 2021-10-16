@@ -33,9 +33,10 @@
 
 ## Languages and Tools 🚀
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="./icons/css.png" />
+<img align="left" alt="CSS" width="26px" src="./icons/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />
 <img align="left" alt="Git" width="26px" src="./icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="./icons/github.png" />
 
