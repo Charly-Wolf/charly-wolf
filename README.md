@@ -3,20 +3,20 @@
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-### Traveler, Linguistics Enthusiast, Developer (and former tax advisor 😜)
+### Traveler, Linguistics Enthusiast, Developer
 
 <!--![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosParedes90&show_icons=true&theme=tokyonight)-->
 
 ## About me 🙌
 
- After a long journey around Northern Europe, I decided to dive deep into the IT world, so in September 2021 I started learning coding and moved to Germany.
+ After a long journey around Northern Europe, I decided to dive deep into the IT world, so I started learning coding and moved to Germany.
 
 
 - 🌆 Doing an apprenticeship in Software development in Frankfurt.
 - 💻 Learning Full-Stack development on Codecademy.
 - 🤓 I'm super curious, fast-learner and very motivated!
 - 👯 Open to collaborating with developers/designers.
-- 🥅 2021 Goals: Master HTML, CSS and JavaScript!
+- 🥅 2022 Goals: Master HTML, CSS and JavaScript!
 - ⚡ Fun fact: I love to play guitar and make photos with my Nikon!
 - 🌎 Fluent in Spanish, English and German (+ I can say a few phrases in Swedish/Danish/Italian).
 
