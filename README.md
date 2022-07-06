@@ -16,7 +16,7 @@
 - 💻 Learning Full-Stack development on Codecademy.
 - 🤓 I'm super curious, fast-learner and very motivated!
 - 👯 Open to collaborating with developers/designers.
-- 🥅 2022 Goals: Master HTML, CSS and JavaScript!
+- 🥅 2022 Goals: Master React!
 - ⚡ Fun fact: I love to play guitar and make photos with my Nikon!
 - 🌎 Fluent in Spanish, English and German (+ I can say a few phrases in Swedish/Danish/Italian).
 
