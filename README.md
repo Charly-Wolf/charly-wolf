@@ -3,7 +3,7 @@
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-### Developer, Traveler and Linguistics Enthusiast
+### Developer, Traveler, Guitar Player and Linguistics Enthusiast
 
 <!--![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosParedes90&show_icons=true&theme=tokyonight)-->
 
@@ -16,9 +16,8 @@
 - 💻 Learning Full-Stack development on Codecademy.
 - 🤓 I'm super curious, fast-learner and very motivated!
 - 👯 Open to collaborating with developers/designers.
-- 🥅 2022 Goal: Master React!
-- ⚡ Fun fact: I love to play guitar and make photos with my Nikon!
-- 🌎 Fluent in Spanish, English and German (+ I can say a few phrases in Swedish/Danish/Italian).
+- ⚡ Fun fact: I love to play my Ibanez Guitar and make photos with my Nikon D750!
+- 🌎 Fluent in Spanish, English and German, learning Italian (+ I can say a few phrases in Swedish &Danish).
 
 ## Connect with me 📧
 
