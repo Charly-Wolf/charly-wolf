@@ -16,7 +16,7 @@
 - 🤓 I'm super curious, fast-learner and very motivated!
 - 👯 Open to collaborating with developers/designers.
 - ⚡ Fun fact: I love to play my Ibanez Guitar and make photos with my Nikon D750!
-- 🌎 Fluent in Spanish, English and German, learning Italian (+ I can say a few phrases in Swedish &Danish).
+- 🌎 Fluent in Spanish, English and German, learning Italian (+ I can say a few phrases in Swedish & Danish).
 
 ## Connect with me 📧
 
