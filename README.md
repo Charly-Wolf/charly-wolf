@@ -37,9 +37,16 @@
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
 <img align="left" alt="CSS" width="26px" src="./icons/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
+<img align="left" alt="Azure DevOps" width="26px" src="./icons/azure-devops.png" />
+<img align="left" alt="Visual Studio" width="26px" src="./icons/visual-studio.png" 
 <img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />
 <img align="left" alt="Git" width="26px" src="./icons/git.png" />
+<img align="left" alt="MS Sql Server" width="26px" src="./icons/ms-sql-server.png" />
 <img align="left" alt="GitHub" width="26px" src="./icons/github.png" />
+<img align="left" alt="Source Tree" width="26px" src="./icons/source-tree.png" />
+<img align="left" alt="EF Core" width="26px" src="./icons/ef-core.png" />
+<img align="left" alt="Trello" width="26px" src="./icons/trello.png" />
+<img align="left" alt="Swagger" width="26px" src="./icons/swagger.png" />
 
 <br />
 
