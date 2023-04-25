@@ -31,6 +31,9 @@
 
 ## Languages and Tools 🚀
 
+<img align="left" alt="Blazor" width="26px" src="./icons/blazor.png" />
+<img align="left" alt="CSharp" width="26px" src="./icons/csharp.png " />
+<img align="left" alt="CPlusPlus" width="26px" src="./icons/cplusplus.png" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
 <img align="left" alt="CSS" width="26px" src="./icons/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
