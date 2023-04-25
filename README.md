@@ -44,7 +44,6 @@
 <img align="left" alt="MS Sql Server" width="26px" src="./icons/ms-sql-server.png" />
 <img align="left" alt="GitHub" width="26px" src="./icons/github.png" />
 <img align="left" alt="Source Tree" width="26px" src="./icons/source-tree.png" />
-<img align="left" alt="EF Core" width="26px" src="./icons/ef-core.png" />
 <img align="left" alt="Trello" width="26px" src="./icons/trello.png" />
 <img align="left" alt="Swagger" width="26px" src="./icons/swagger.png" />
 
