@@ -13,7 +13,7 @@
 
 
 - 🌆 Doing an apprenticeship in Software development (Ausbildung zum Fachinformatiker für Anwendungsentwicklung) -> C#, C++, Blazor, JavaScript, HTML, CSS, Azure, Python, Jira, etc.
-- 🤓 I'm super curious, fast-learner and very motivated!
+- 🤓 I'm super curious, very motivated and love to learn!
 - 👯 Open to collaborating with developers/designers.
 - ⚡ Fun fact: I love to play my Ibanez Guitar and make photos with my Nikon D750!
 - 🌎 Fluent in Spanish, English and German, learning Italian (+ I can say a few phrases in Swedish & Danish).
