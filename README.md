@@ -12,7 +12,7 @@
  After a long journey around Northern Europe, I decided to dive deep into the IT world, so I started learning coding and moved to Germany.
 
 
-- 🌆 Doing an apprenticeship in Software development in Frankfurt (C#, C++, Blazor, JavaScript, HTML, CSS, Azure, Python, Jira, etc.).
+- 🌆 Doing an apprenticeship in Software development (Ausbildung zum Fachinformatiker für Anwendungsentwicklung) -> C#, C++, Blazor, JavaScript, HTML, CSS, Azure, Python, Jira, etc.
 - 🤓 I'm super curious, fast-learner and very motivated!
 - 👯 Open to collaborating with developers/designers.
 - ⚡ Fun fact: I love to play my Ibanez Guitar and make photos with my Nikon D750!
