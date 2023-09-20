@@ -11,7 +11,7 @@
 
  After a long journey around Northern Europe, I decided to dive deep into the IT world, so I started learning coding and moved to Germany.
 
-- 🧑🏻‍💻 React, Flask, C#, C++, Javascript
+- 🧑🏻‍💻 React, Flask, C#, C++, Javascript, Python
 - 🌆 Doing an apprenticeship in Software development (Ausbildung zum Fachinformatiker für Anwendungsentwicklung) -> C#, C++, Blazor, JavaScript, HTML, CSS, Azure, Python, Flask, React, Jira, etc.
 - 🤓 I'm super curious, very motivated and love to learn!
 - 👯 Open to collaborating with developers/designers.
