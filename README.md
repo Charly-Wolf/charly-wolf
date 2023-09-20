@@ -33,6 +33,7 @@
 
 <img align="left" alt="React" width="26px" src="./icons/React-icon.svg.png" />
 <img align="left" alt="Blazor" width="26px" src="./icons/blazor.png" />
+<img align="left" alt="React" width="26px" src="./icons/Python.svg.png" />
 <img align="left" alt="CSharp" width="26px" src="./icons/csharp.png " />
 <img align="left" alt="CPlusPlus" width="26px" src="./icons/cplusplus.png" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
