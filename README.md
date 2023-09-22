@@ -27,6 +27,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Youtube" width="28px" src="./icons/Youtube_logo.png" />][youtube]
 
 <br />
 
@@ -54,3 +55,4 @@
 
 [instagram]: https://instagram.com/quit_and_travel
 [linkedin]: https://linkedin.com/in/carlosparedes90
+[youtube]: https://youtube.com/@charlyalemania
