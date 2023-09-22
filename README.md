@@ -42,7 +42,7 @@
 <img align="left" alt="CSS" width="26px" src="./icons/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
 <img align="left" alt="Azure DevOps" width="26px" src="./icons/azure-devops.png" />
-<img align="left" alt="Visual Studio" width="26px" src="./icons/visual-studio.png" />
+<img align="left" alt="Visual Studio" width="39px" src="./icons/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />
 <img align="left" alt="Git" width="26px" src="./icons/git.png" />
 <img align="left" alt="MS Sql Server" width="26px" src="./icons/ms-sql-server.png" />
