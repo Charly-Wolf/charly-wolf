@@ -12,7 +12,7 @@
  After a long journey around Northern Europe, I decided to dive deep into the IT world, so I started learning coding and moved to Germany.
 
 - 📖 Currently learning: Angular and Spring Boot
-- 🧑🏻‍💻 React, Flask, Blazor, C#, C++, Javascript, Python, Azure Devops, Jira, etc.
+- 🧑🏻‍💻 React, Flask, Blazor, C#, C++, Javascript, Java, Python, etc.
 - 🛠️ VS Code, Visual Studio, Git, MS SQL Server, Azure DevOps, Jira, Source Tree, Trello, Swagger, etc.
 - 🌆 Doing an apprenticeship in Software development (Ausbildung zum Fachinformatiker für Anwendungsentwicklung)
 - 🤓 I'm super curious, very motivated and love to learn!
