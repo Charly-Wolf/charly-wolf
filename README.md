@@ -33,10 +33,12 @@
 
 ## Languages and Tools 🚀
 
-<img align="left" alt="Angular" width="26px" src="./icons/angular_icon.png" />
+<img align="left" alt="Angular" width="32px" src="./icons/angular_icon.png" />
 <img align="left" alt="React" width="26px" src="./icons/React-icon.svg.png" />
+<img align="left" alt="SpringBoot" width="26px" src="./icons/spring_boot_icon.png" />
 <img align="left" alt="Blazor" width="26px" src="./icons/blazor.png" />
 <img align="left" alt="Typescript" width="26px" src="./icons/typescript_icon.png" />
+<img align="left" alt="Java" width="26px" src="./icons/java_icon.png" />
 <img align="left" alt="Python" width="26px" src="./icons/Python.svg.png" />
 <img align="left" alt="CSharp" width="26px" src="./icons/csharp.png " />
 <img align="left" alt="CPlusPlus" width="26px" src="./icons/cplusplus.png" />
