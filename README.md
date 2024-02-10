@@ -9,7 +9,7 @@
 
 ## About me 🙌
 
- After establishing a career as an accountant & tax advisor, I decided to take new challenges and transition to the beautiful world of Software Development. During this period I relocated to Europe, where I lived in Cologne, Freiburg, Copenhagen, Stockholm, Strömstad and Frankfurt.
+ After establishing a career as an accountant & tax advisor, I decided to take new challenges and transition to the beautiful world of Software Development. During this period I relocated to Europe and lived in Germany, Denmark and Sweden.
 
 Currently looking forward to new opportunities as a Front End Developer in one of the most exciting and IT friendly capitals of the world: Berlin 🇩🇪 
 
