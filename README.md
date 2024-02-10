@@ -9,15 +9,16 @@
 
 ## About me 🙌
 
- After a long journey around Northern Europe, I decided to dive deep into the IT world, so I started learning coding and moved to Germany.
+ After establishing a career as an accountant & tax advisor, I decided to take new challenges and transition to the beautiful world of Software Development. During this period I relocated to Europe, where I lived in Cologne, Freiburg, Copenhagen, Stockholm, Strömstad and Frankfurt.
+
+Currently looking forward to new opportunities as a Front End Developer in one of the most exciting and IT friendly capitals of the world: Berlin 🇩🇪 
 
 - 🧑🏻‍💻 Angular, React, Spring Boot, Flask, Blazor, C#, C++, Typescript, Javascript, Java, Python, etc.
 - 🛠️ VS Code, Visual Studio, Git, MS SQL Server, Azure DevOps, Jira, Source Tree, Trello, Swagger, etc.
-- 🌆 Doing an apprenticeship in Software development (Ausbildung zum Fachinformatiker für Anwendungsentwicklung)
 - 🤓 I'm super curious, very motivated and love to learn!
 - 👯 Open to collaborating with developers/designers.
 - ⚡ Fun fact: I love to play my Ibanez Guitar and make photos with my Nikon D750!
-- 🌎 Fluent in Spanish, English and German, learning Italian and Japanese (+ I can say a few phrases in Swedish & Danish).
+- 🌎 Fluent in Spanish, English and German -  Learning Italian and Japanese (+ I can say a few phrases in Swedish & Danish).
 
 ## Connect with me 📧
 
