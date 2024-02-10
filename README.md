@@ -9,7 +9,8 @@
 
 ## About me 🙌
 
-After establishing a career as an accountant & tax advisor, I decided to take new challenges and transition to the beautiful world of Programming. During this period I relocated to Europe and lived in Germany, Denmark and Sweden. In Germany I undertook a vocational training (Ausbildung) to become a Software Developer and learned diverse technologies and tools.
+After establishing a career as an accountant & tax advisor, I decided to take new challenges and transition to the beautiful world of Programming. During this period I relocated to Europe and lived in Germany, Denmark and Sweden. 
+In Frankfurt I undertook a vocational training (Ausbildung) to become a Software Developer and learned diverse technologies and tools.
 
 Currently looking forward to new opportunities as a Front End Developer in one of the most exciting and IT friendly capitals of the world: Berlin 🇩🇪 
 
