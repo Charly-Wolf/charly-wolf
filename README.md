@@ -34,6 +34,8 @@ Visit my portfolio website here: [charly-dev.com](https://www.charly-dev.com)
 
 ## Languages and Tools 🚀
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <img align="left" alt="Angular" width="32px" src="./icons/angular_icon.png" />
 <img align="left" alt="React" width="26px" src="./icons/React-icon.svg.png" />
 <img align="left" alt="SpringBoot" width="26px" src="./icons/spring_boot_icon.png" />
