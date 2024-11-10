@@ -13,7 +13,7 @@ After establishing a successful career as an accountant & tax advisor 💼, I de
 
 Currently learning the awesome NextJs!
 
-- 🧑🏻‍💻 Angular, React, Spring Boot, Flask, Blazor, C#, C++, Typescript, Javascript, Java, Python, etc.
+- 🧑🏻‍💻 Vue, Angular, React, Spring Boot, Flask, Blazor, C#, C++, Typescript, Javascript, Kotlin, Java, Python, etc.
 - 🛠️ VS Code, Visual Studio, Git, MS SQL Server, Azure DevOps, Jira, Source Tree, Trello, Swagger, etc.
 - 🤓 I'm super curious, very motivated and love to learn!
 - 👯 Open to collaborating with developers/designers.
