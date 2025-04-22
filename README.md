@@ -11,9 +11,8 @@
 
 After establishing a successful career as an accountant & tax advisor 💼, I decided to embark on a new adventure in the world of Programming. 🌟 During this period, I relocated to Europe and lived in Germany 🇩🇪, Denmark 🇩🇰, and Sweden 🇸🇪. In Frankfurt, I undertook a vocational training (Ausbildung) to become a Software Developer 💻 and immersed myself in learning diverse technologies and tools. 🛠️
 
-Currently learning the awesome NextJs!
 
-- 🧑🏻‍💻 Vue, Angular, React, Spring Boot, Flask, Blazor, C#, C++, Typescript, Javascript, Kotlin, Java, Python, etc.
+- 🧑🏻‍💻 Vue, Angular, React, React Native, Spring Boot, Express, Flask, Blazor, C#, C++, Typescript, Javascript, Kotlin, Java, Python, etc.
 - 🛠️ VS Code, Visual Studio, Git, MS SQL Server, Azure DevOps, Jira, Source Tree, Trello, Swagger, etc.
 - 🤓 I'm super curious, very motivated and love to learn!
 - 👯 Open to collaborating with developers/designers.
